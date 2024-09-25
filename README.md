@@ -21,14 +21,14 @@ shamiri fellow @ Tinada Youth action Africa Kisumu
 Project:    
 Checklab Innovation(an authenticaticatonal that aims in reducing the rate of ghost workers among countries)
 
-Skills: 
+Skills:  
 1.Networking, Forensics, penetration testing, vulnerability assessments
-2. Proficient in various Computer systems and programs such as;
-❖ Introduction to computers
-❖ Microsoft windows
-❖ Microsoft word
-❖ Microsoft Excel
-❖ Microsoft Access
-❖ Microsoft Power Point
-❖ Internet
+2. Proficient in various Computer systems and programs such as;  
+❖ Introduction to computer  
+❖ Microsoft windows  
+❖ Microsoft word  
+❖ Microsoft Excel  
+❖ Microsoft Access  
+❖ Microsoft Power Point  
+❖ Internet  
 3.Strong problem solving and troubleshooting skills. 3.Excellent communication and presentation.  

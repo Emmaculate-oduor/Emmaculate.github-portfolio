@@ -1,10 +1,10 @@
 Cybersecurity trainee
 
-Education 
+Education:  
 Certification in Cybersecurity(TechBootcamp)
 
-Work Experience
+Work Experience:
 shamiri fellow @ Tinada Youth action Africa Kisumu
 
-Project
+Project:
 Checklab Innovation

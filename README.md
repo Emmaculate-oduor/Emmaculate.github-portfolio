@@ -1,13 +1,17 @@
 Cybersecurity trainee
 
 Education:  
-2024: Certification in cybersecurity
+2024: Certification in cybersecurity  
 (TechBootcamp at Fablab Winam Kisumu)
-2023: Certification in computer Applications
-(Western Institute of professionals)
-2019-2022: Kenya Certificate of Secondary Education (K.C.S.E)
-(Anyiko Mixed Secondary School) (Anyiko Mixed Secondary School)
-2010-2018: Kenya Certificate of Primary Education (K.C.P.E)
+
+
+2023: Certification in computer Applications  
+(Western Institute of professionals)  
+
+2019-2022: Kenya Certificate of Secondary Education (K.C.S.E)  
+(Anyiko Mixed Secondary School) (Anyiko Mixed Secondary School)  
+
+2010-2018: Kenya Certificate of Primary Education (K.C.P.E)  
 (Siror Primary School)
 
 Work Experience:  

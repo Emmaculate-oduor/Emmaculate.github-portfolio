@@ -1,7 +1,14 @@
 Cybersecurity trainee
 
 Education:  
-Certification in Cybersecurity(TechBootcamp)
+2024: Certification in cybersecurity
+(TechBootcamp at Fablab Winam Kisumu)
+2023: Certification in computer Applications
+(Western Institute of professionals)
+2019-2022: Kenya Certificate of Secondary Education (K.C.S.E)
+(Anyiko Mixed Secondary School) (Anyiko Mixed Secondary School)
+2010-2018: Kenya Certificate of Primary Education (K.C.P.E)
+(Siror Primary School)
 
 Work Experience:  
 shamiri fellow @ Tinada Youth action Africa Kisumu
@@ -9,3 +16,15 @@ shamiri fellow @ Tinada Youth action Africa Kisumu
 
 Project:    
 Checklab Innovation(an authenticaticatonal that aims in reducing the rate of ghost workers among countries)
+
+Skills: 
+1.Networking, Forensics, penetration testing, vulnerability assessments
+2. Proficient in various Computer systems and programs such as;
+❖ Introduction to computers
+❖ Microsoft windows
+❖ Microsoft word
+❖ Microsoft Excel
+❖ Microsoft Access
+❖ Microsoft Power Point
+❖ Internet
+3.Strong problem solving and troubleshooting skills. 3.Excellent communication and presentation.  

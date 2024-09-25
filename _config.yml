@@ -3,6 +3,4 @@ logo: /assets/img/headshort_circle.png
 description: text below image
 show downloads: True
 theme: jekyll-theme-minimal
-<img src="/assets/img/headshort_circle.png" alt="Emmaculate Oduor Logo">
-<title>{{ page.title }}</title>
-<img src="/assets/img/headshort_circle.png" alt="Emmaculate Oduor Logo" style="width: 100px; height: auto;">
+

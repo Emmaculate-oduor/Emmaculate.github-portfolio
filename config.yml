@@ -1,1 +1,5 @@
-
+tittle: show Taleb 1
+#logo: /assets/img/headshort_circle.png
+#description text below image
+#show downloads: True
+theme: jekyll=theme=minimal

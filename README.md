@@ -1,6 +1,6 @@
 Cybersecurity trainee
 
-Education:  
+Education: 
 Certification in Cybersecurity(TechBootcamp)
 
 Work Experience: 

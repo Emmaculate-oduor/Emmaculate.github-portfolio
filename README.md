@@ -22,7 +22,7 @@ Project:
 Checklab Innovation(an authenticaticatonal that aims in reducing the rate of ghost workers among countries)
 
 Skills:  
-1.Networking, Forensics, penetration testing, vulnerability assessments
+1.Networking, Forensics, penetration testing, vulnerability assessments  
 2. Proficient in various Computer systems and programs such as;  
 ❖ Introduction to computer  
 ❖ Microsoft windows  

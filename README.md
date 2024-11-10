@@ -32,6 +32,9 @@ Skills:
 ❖ Microsoft Power Point  
 ❖ Internet  
 3.Strong problem solving and troubleshooting skills.
-4.Excellent communication and presentation.  
-5.pytho coding
+
+4.Excellent communication and presentation.
+
+5.python coding
+
 6.Online writitng

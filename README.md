@@ -31,4 +31,7 @@ Skills:
 ❖ Microsoft Access  
 ❖ Microsoft Power Point  
 ❖ Internet  
-3.Strong problem solving and troubleshooting skills. 3.Excellent communication and presentation.  
+3.Strong problem solving and troubleshooting skills.
+4.Excellent communication and presentation.  
+5.pytho coding
+6.Online writitng
